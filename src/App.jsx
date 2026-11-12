@@ -120,7 +120,7 @@ export default function App() {
                         </div>
 
                         <h1 className="text-5xl font-bold leading-tight">
-                            Recover ₹15,000–₹50,000 Every Year From Missed Expiry Returns
+                            Recover ₹10,000+ Every Year From Missed Expiry Returns
                         </h1>
 
                         <p className="text-xl text-gray-600 mt-6">
